@@ -5,9 +5,9 @@ The lib is intended for generating:
 
 # Install
 Включите в файл package.json в раздел "dependencies" следующую строчку:
-```json
+```
 "dependencies": {    
-  "i18ns_pl_mock": "git+https://github.com/eugen35/doubleSplit.git"
+  "doubleSplitter": "git+https://github.com/eugen35/doubleSplit.git"
 }
 ```
 
