@@ -5,11 +5,12 @@ The lib is intended for generating:
 
 # Install
 Включите в файл package.json в раздел "dependencies" следующую строчку:
-```
-"dependencies": {    
-  "doubleSplit": "git+https://github.com/eugen35/doubleSplit.git"
-}
-```
+
+`"doubleSplit": "git+https://github.com/eugen35/doubleSplit.git"`
+
+or for specific version:
+
+`"doubleSplit": "git+https://github.com/eugen35/doubleSplit.git##1.0.1"`
 
 Затем напишите в командной строке: npm i
 
