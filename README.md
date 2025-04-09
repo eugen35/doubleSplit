@@ -7,7 +7,7 @@ The lib is intended for generating:
 Включите в файл package.json в раздел "dependencies" следующую строчку:
 ```
 "dependencies": {    
-  "doubleSplitter": "git+https://github.com/eugen35/doubleSplit.git"
+  "doubleSplit": "git+https://github.com/eugen35/doubleSplit.git"
 }
 ```
 
